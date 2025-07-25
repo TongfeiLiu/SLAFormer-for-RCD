@@ -1,2 +1,2 @@
-# SLAFormer-for-RCD
+# SLAFormer-for-RCD (Submitted to IEEE TGRS)
 Road Change Detection
